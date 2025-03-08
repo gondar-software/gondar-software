@@ -17,6 +17,7 @@ I'm a developer of team called as **MONATE** specializing in 𝗙𝘂𝗹𝗹-�
 
 ---
 
+|---|---|---|---|
 | **Follow** | **Chatbot** | **Image Generation** | **Video Generation** |
 |![followers](https://github.com/user-attachments/assets/d22b2426-a92e-4f71-91d7-50069a2b07ae)|![chatbot](https://github.com/user-attachments/assets/f92d3ddd-809a-4786-a924-96c7a2402194)|![sdxl](https://github.com/user-attachments/assets/8215f04c-6d41-487d-8395-31c433c2a0ee)|![liveportrait](https://github.com/user-attachments/assets/3f16ae81-f0aa-4c89-9db8-9244be9b974c)|
 |---|---|---|---|
