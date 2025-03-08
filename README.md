@@ -12,9 +12,6 @@ I'm a developer of team called as **MONATE** specializing in 𝗙𝘂𝗹𝗹-�
 ✅ **Cloud & DevOps** – Optimized deployment strategies with AWS, GCP, and Azure<br />
 ✅ **E-commerce & Fintech Solutions** – Secure payment gateway integration and AI-driven trading models<br />
 
-**Contact Info:**  
-**Skype:** live:.cid.d7d124c8ec827d03  
-
 ---
 
 | **Follow** | **Chatbot** | **Image Generation** | **Video Generation** |
