@@ -22,7 +22,7 @@ I'm seasoned software developer specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮�
 
 ## 🛠️ Skills
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=aiscript,anaconda,androidstudio,angular,aws,azure,bash,bootstrap,c,cs,cpp,cmake,css,bots,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,graphql,heroku,html,ai,java,js,jenkins,jquery,kubernetes,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nginx,nodejs,opencv,php,postgres,postman,powershell,pycharm,py,pytorch,qt,react,raspberrypi,redhat,redis,redux,spring,sqlite,stackoverflow,sublime,supabase,sklearn,selenium,solidity,svg,swift,tailwind,tensorflow,terraform,threejs,ts,ubuntu,unity,unreal,vercel,visualstudio,vite,vscode,vue,wasm,webflow,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=aiscript,anaconda,androidstudio,angular,aws,azure,bash,bootstrap,c,cs,cpp,cmake,css,bots,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,graphql,heroku,html,ai,java,js,jenkins,jquery,kubernetes,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nginx,nodejs,opencv,php,postgres,postman,powershell,pycharm,py,pytorch,qt,react,raspberrypi,redhat,redis,redux,spring,sqlite,stackoverflow,sublime,supabase,sklearn,selenium,solidity,svg,swift,tailwind,tensorflow,terraform,threejs,ts,ubuntu,unity,unreal,vercel,visualstudio,vite,vscode,vue,wasm,webflow,wordpress" />
 </p>
 
 <p align="start">
