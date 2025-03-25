@@ -16,9 +16,9 @@ I'm seasoned software developer specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮�
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=monate-backend&style=for-the-badge&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gondar-software&style=for-the-badge&color=orange" alt=""/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=monate-backend&theme=algolia&&title=-PullRequest,-Reviews,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gondar-software&theme=algolia&&title=-PullRequest,-Reviews,-Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Skills
 <p align="start">
@@ -26,7 +26,7 @@ I'm seasoned software developer specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮�
 </p>
 
 <p align="start">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=monate-backend&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=monate-backend&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=gondar-software&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gondar-software&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
