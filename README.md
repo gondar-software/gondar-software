@@ -6,6 +6,8 @@
 
 I'm seasoned software developer specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗔𝗜 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻, 𝗖𝗹𝗼𝘂𝗱 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀, and 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻. I've successfully built and deployed 𝗹𝗮𝗿𝗴𝗲-𝘀𝗰𝗮𝗹𝗲 𝘄𝗲𝗯 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 and 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 for startups and enterprises.
 
+[Portfolio Site](https://monate.site) | [Github Repo](https://github.com/gondar-software/MONATE)
+
 ---
 
 | **Follow** | **Chatbot** | **Image Generation** | **Video Generation** |
